@@ -1,0 +1,3 @@
+- Youtube JavaScript course. 
+- JavaScript Programming All-in-One Tutorial Series (9 HOURS!)
+- by Caleb Curry
